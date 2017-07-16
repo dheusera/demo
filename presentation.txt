@@ -1,1 +1,4 @@
 File is in commited state
+File is in index state
+File is in working directory state
+fourth line added
